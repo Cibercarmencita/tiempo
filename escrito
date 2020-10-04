@@ -1,1 +1,100 @@
-El tiempo que me roban.
+UNIVERSIDAD NACIONAL DE TRES DE FEBRERO - Maestría en Tecnología y Estética de las Artes Electrónicas
+Trabajo Práctico Cuatrimestral - EJE TIEMPO
+(2020)
+
+CARMEN TORRIERI
+
+
+EJE TIEMPO
+Ejercicio 01. El tiempo que fue
+
+SINOPSIS
+	'Ejercicio 01. El tiempo que fue' es un programa interactivo realizado en processing, donde el espectador puede interactuar, controlar y transformar en algunos momentos la imagen de la pantalla.
+	Mediante un recorrido discursivo que reflexiona sobre el movimiento Black Lives Matters y las nuevas/viejas formas de manifestarse, el ejercicio se cuestiona a partir de imágenes icónicas  ¿destruyo, construyo o transformo?; ¿qué se genera a partir de ese hecho?
+	Si acto abolicionista colectivo crea espacio para lo nuevo, imaginando un mundo diferente; ¿cómo serán esas nuevas representaciones? ¿qué símbolos nuevos habrá? ¿cómo se transforma la materia? ¿qué transformación hay si el medio es digital?
+
+
+EXPERIMENTACIÓN (en proceso)
+Un símbolo se vuelve universal cuando trasciende la Historia pero sigue siendo particular por corresponderse a una época precisa. ¿Qué pasa cuando lo histórico y lo simbólico son irreconciliables?
+Una estatua, un monumento, cumplen la función de otorgar legitimidad al poder establecido y consolidar cierto discurso político. Un símbolo es ideológico y pretende representar valores universales e inmutables, manteniendo con el lugar donde está situado vinculaciones históricas. La permanencia material de de las estatuas permiten representaciones del pasado mediante dichas imágenes. Sin embargo, hay infinidad de disputas y discusiones con respecto a definir que tiene que ser recordado y que no, y de qué manera los espacios públicos deben ser politizados. 
+Las manifestaciones iconoclastas, es decir de ruptura de imágenes sagradas, tienen larga data; pero esa destrucción no siempre es material. A veces esas imágenes no son destruidas sino canceladas, señaladas, “escrachadas”. Actualmente la imagen en el medio digital y de las redes sociales, se usan y resignifican con diferentes objetivos. 
+Los símbolos importan. Las imágenes, los nombres de las calles, los nombres de las escuelas, todo parece irrelevante hasta que algo las vuelve imposibles. El asesinato de George Floyd el 25 de mayo del presente, junto con el desarrollo del movimiento “Black Lives Matters” han revivido la lucha contra la violencia hacia las comunidades negras generando una ola de repudios contra el racismo y la brutalidad policial que se expande constantemente. Las protestas que a lo largo de todo el mundo gritan “Sin justicia no hay paz” y “No puedo respirar”, han tenido también diversas expresiones gráficas y culturales. Hazañas colectivas nacidas desde el hartazgo,  con apuestas claras y que tienen consecuencias materiales en el presente. 
+Si nuestra vida tal cual la transitamos, es una de las posibilidades entre tantas; si se pueden cambiar esas condiciones; si sólo necesitamos verlas; ¿por qué no transformarlo todo?
+Las imágenes de las acciones colectivas en las calles hacia los símbolos del racismo, como los derribamientos de las estatuas u otras intervenciones, son el comienzo del recorrido. La transformación de la materia de un estado a otro, ¿qué hacemos con los pedazos? ¿Y si modificamos píxeles? 
+Sin embargo las imágenes, que las puedo ver a través de una pantalla, me permite otro tipo de manipulación. ¿Cómo funciona esa transformación de la materia lo digital? ¿Es siempre una ilusión? 
+¿Qué puedo realmente controlar? ¿qué universos puedo crear a partir de esa transformación?
+Lo que me conmueve y que tiene que ver con el recorrido de esta búsqueda es  cómo propiciar diferentes espacios, en este caso digitales que permitan diversos tipos de manipulación, transformación de las imágenes y determinados símbolos.
+
+ANTIRREFERENTES
+“Un maestro odiado, una situación que no queremos para nosotros, un mal recuerdo, una obra que nos resulte horrible, un a época histórica que detestamos .(...) Aquello por lo que se actuó en-reacción-a, por oposición , par a no-parecerse-a”
+
+Hago un breve recorrido de las imágenes con las cuales estuve trabajando y probando, aunque no todas llegaron a la versión final. 
+
+Cristóbal Colón (1451 -1506 - Génova)  navegante, virrey y gobernador general de las Indias Occidentales al servicio de la Corona de Castilla. Es considerado quién realizó el descubrimiento de América en 1492 al llegar a las Bahamas. Fue el primero en trazar la ruta de ida y vuelta de Europa hacia del “Nuevo Mundo”, a través del océano Atlántico.  Hecho que impulsó la conquista europea y la colonización de varias potencias del “Viejo Mundo” al continente americano. Por esto, es considerado un genocida, ya que es uno de los responsables del inicio del mercado de esclavos y de las aberraciones que trajo aparejadas la conquista sobre los Pueblos Originarios. 
+En Boston una de las estatuas de Colón fue decapitada el 9 de junio, en Virginia una fue derribada y luego tirada a un lago, como así también en Miami. Desde hace tiempo su figura era controversial, y otras estatuas de Colón en EEUU y en el mundo ya había sido grafiteadas o intervenidas. Desde mayo hasta nuestros días, los gobiernos locales han tomado “medidas” para impedir las manifestaciones sobre estas imágenes. Fueron removidas estatuas en San Francisco, en Chicago, Baltimore, Boston. Otras fueron cubiertas como en Chicago.  
+Edward Colston (1636-1721 - Gran Bretaña) fue un traficante de esclavos, comerciante y diputado inglés. Durante sus años en la Royal African Company (organización que tenía el monopolio el comercio del oro, marfil y los esclavos), entre 1680 y 1692 se calcula aproximadamente que 84.000 hombres, mujeres y niños africanos fueron enviados a trabajar a las plantaciones de azúcar y tabaco en América y el Caribe. Trabajo en compañías comerciales en Londres, realizó negocios con España, Portugal y en África.  Fue miembro del partido Tory,  y diputado en el parlamento por Bristol.
+Al occidente de Inglaterra desde 1895 se situaba una estatua de quién fuera un empresario entre finales del siglo XVII y principios del XVIII que amasó grandes fortunas comerciando con personas. Fue derribada el 7 de junio de 2020 y posteriormente lanzada el río en el medio de una manifestación del movimiento Black Lives Matter donde se pedía justicia por el asesinato de George Floyd. 
+George Washington (1732 - 1799 - EEUU) fue el primer presidente de los Estados Unidos entre 1789 y 1797,  comandante en jefe del Ejército Continental en la guerra de la Independencia de los Estados Unidos. Allí se lo considera un “padre de la patria”, como uno de los fundadores junto con John Adams, Benjamin Franklin, Alexander Hamilton, John Jay, Thomas Jefferson y James Madison. 
+Como comandante del ejército que peleaba contra los ingleses, prohibió que formará parte de él ningún afroamericano, además de poseer esclavos. 
+Derriban una estatua de George Washington y queman su cabeza en Portland, los manifestantes han pintado mensajes como “colonialista genocida”, “estás en tierras nativas”, y “1619” en referencia al año que los primeros esclavos fueron llevados a Estados Unidos. 
+Thomas Jefferson (1743 - 1826 EEUU) fue el tercer presidente de los Estados Unidos, se lo considera uno de los “padres” fundadores de la nación. Además fue el principal autor de la Declaración de la Independencia en 1776. Pese al haber escrito en dicha declaración que “todos los hombres son creados iguales”, en su libro “Notas sobre el estado de Virginia” de 1785 escribió una serie de “creencias” sobre los afroamericanos considerándolos inferiores, considerando que si se liberara a los esclavos debían ser deportados. Además de poseer esclavos. Es conocida la historia de Sally Hemings quién fuera una esclava de su propiedad con la que tuvo hijos. 
+En Portland a una estatua del tercer presidente estadounidense le pintaron 'propietario de esclavos' y el nombre del afroamericano George Floyd en el medio de las manifestaciones masivas. 
+Robert Milligan (1746 - 1809 - Reino Unido) fue un comerciante y esclavista escocés que poseía plantaciones azucareras. Impulsó la construcción de los Muelles de las Indias Occidentales en Londres. 
+Su estatua en el Museo de los Docklands de Londres, fue retirada el 9 de junio por ser un esclavista y festejado por los manifestantes. 
+Jefferson Davis (1808- 1889 - EEUU) fue un político estadounidense, miembro del Partido Demócrata, y representó a Mississippi en el Senado, antes de cambiar su lealtad a la Confederación. Fue presidente de los Estados Confederados durante la guerra de Secesión desde 1861 hasta 1865, que estaba conformado por siete estados: Carolina del Sur, Mississippi, Alabama, Georgia, Louisiana y Texas, donde era legal tener esclavos. Además fue militar y luchó en campañas contra los indios y en la guerra contra México en 1846- 1848. 
+Durante las protestas por la noche en contra del racismo, los manifestantes en el estado de Virginia derribaron la estatua de Jefferson Davis. El Capitolio de Kentucky aprobó quitar de sus instalaciones una estatua enorme de él. 
+Albert Pike (1809 - 1891 - EEUU)  fue un ex general del ejército confederado y además durante mucho tiempo un líder de los masones. 
+Los masones que veneran a Pike pagaron e instalaron su estatua en la Plaza del Poder Judicial, que está aproximadamente a 800 metros del Capitolio de los Estados Unidos, en Washington. Dicha estatua fue derribada en el medio de las manifestaciones.  
+Williams Carter Wickham (1820-1888- EEUU) fue un general confederado dueño de una plantación con esclavos. Fue considerado un referente por sectores suprematistas blancos.  
+Una de sus estatuas fue derribada el pasado 6 de junio en Richmond,Virginia. 
+Leopoldo II (1835 - 1909 - Bélgica) fue el segundo rey de los belgas, cuando sucedió a su padre en el trono en 1865 y permaneció hasta su muerte. Fue el soberano, fundador y único propietario de El Congo desde 1885 hasta 1908. En la Conferencia de Berlín de 1884 las naciones europeas colonialista que pactaron el reparto de África, se comprometieron a mejorar la vida de los habitantes nativos. Sin embargo, el monarca Leopoldo II emprendió una maquinaria salvaje de explotación de recursos como el marfil, diamantes, o el caucho explotando esclavos negros. Se calcula que durante dos décadas murieron entre 2 y 10 millones de nativos que fueron asesinados, muertos por hambre, agotamiento o producto de otras enfermedades que no fueron tratadas. Un genocida. 
+En Ambares, Bélgica una de sus estatuas fue retirada, luego de ser pintada en el medio de las manifestaciones. 
+Edward Ward Carmack (1858-1908 EEUU) fue abogado, periodista y político estadounidense de Tennessee. Fue editor del Nashville Democrat y luego del Memphis Commercial, durante esa época comenzó una riña periodística con Ida Bells, una comprometida periodista negra, considerada “La madre de los derechos civiles” que realizaba sus publicaciones en el periódico Free Speech. En numerosas ocasiones, exigió juicio y castigo para personas negras, y si eso no pasaba que se los linchara y festejó cuando sucedieron. 
+En el Capitolio de Tennessee fue derribada una de sus estatuas por sus dichos contra los afroamericanos. 
+Winston Churchill (1874- 1965 - Reino Unido) fue un político y primer ministro del Reino Unido en dos ocasiones. También fue oficial del ejército, periodista, historiador y artista, fue el único primer ministro británico galardonado con el Premio Nobel de Literatura. En lo político se posicionó siempre en el bando conservador, siendo un político imperialista y racista.  
+En junio la estatua que está enfrente al parlamento en Londres, fue grafiteada con la frase “era un racista”. Sin embargo, sus defensores lo reivindican como un “héroe” que defendió al Reino Unido del Tercer Reich. Boris Johnson, actual primer ministro; lo reivindica como héroe personal y un símbolo del orgullo nacional.  Luego de las manifestaciones, funcionarios ocultaron con paneles blindados la estatua situada frente al Parlamento. 
+
+
+REFERENTES
+Referente: aquella partícula donde posamos la mirada y dejamos que lo visto nos atraviesa. 
+Hay una calidad afectiva que determina el modo de ser del artista.  
+Las acciones colectivas en el medio de las manifestaciones están cuestionando profundamente los valores colonialistas sobre los cuales se han construido las sociedades a costa del sometimiento y de la opresión. 
+La tira de estatuas y los “escraches”, no son ninguna novedad, a lo largo de todo el siglo XX vimos como la tira de estatuas marcaron cambios de épocas, grandes revoluciones, o inclusive las contradicciones de diversos momentos históricos. Sin embargo, al cuestionar el racismo como eslabón fundamental del sistema capitalista, se abre la puerta para cuestionarlo todo.  
+Este primer ejercicio se queda corto en abarcar la profundidad de la temática y la infinidad de expresiones artísticas al respecto pero quisiera destacar una referencia actual que encontré cuando investigaba, que pone en discusión algo de la temática abordada, el símbolo, la estatua / monumento y lo colectivo. También abre otras como el antimonumento y la resignificación del espacio público. 
+
+A surge of power es una escultura realizada por Marc Quinn, quién se basó en una foto que Jan Reid subió a Instagram. 
+Una manifestante negra con el puño en alto, en tamaño real que fue colocada en el pedestal donde hasta junio se encuentra la estatua de Edward Colston.  Al respecto el artista dice “Esta escultura captura un momento. Sucedió en medio de las noticias y el efecto dominó mundial del asesinato de George Floyd (...) Mi primer pensamiento instantáneo fue lo increíble que sería hacer una escultura de ella, en ese instante. Es una imagen tan poderosa, de un momento que sentí que debía materializarse, para siempre(…)” 
+Luego de la colación de la obra, Jen Reid dice “Era como si una carga eléctrica de energía me atravesara. Mis pensamientos inmediatos fueron para las personas esclavizadas que murieron a manos de Colston y para darles poder. Quería darle poder a George Floyd, quería darle poder a las personas negras como yo que han sufrido injusticias y desigualdades. Una oleada de poder para todos ellos". Sin embargo la misma, permaneció un poco más de un día, y fue retirada por las autoridades de Bristol ya que no contaba con los permisos necesarios. 
+Una muestra de un arte urgente, dónde pareciera ser que importa más la acción que lo visual, que se mueve en el plano de lo simbólico. Lo que significa la acción de llenar el vacío que fue dejado luego de la tira de estatua. Eso me pareció interesante. Porque en algún plano responde ¿qué pasa después de que sacas las estatuas? 
+
+MAPEO
+PERSPECTIVAS
+La relación entre el movimiento y sus cuestionamientos a los símbolos no es casualidad. Pienso que el trabajo con imágenes  y otros símbolos es un puntapié para explorar 
+La importancia de nombrar y de resignificar cuando las expresiones artísticas se da en relación a un movimiento vivo, pienso que es el puntapié para seguir trabajando con imágenes y otros símbolos. Explorando distintas formas de transformar y trabajar con una materia digital, y un lenguaje computacional. 
+También, la utilización de imágenes satelitales nos llegan por medios digitales y la ubicación “real” de determinados hechos es algo con lo que me interesa trabajar.
+
+VIDEO
+Video acá: https://www.youtube.com/watch?v=9AWyhCI018w&feature=youtu.be
+
+
+
+
+
+
+BIBLIOGRAFÍA 
+Aira, César (2001) La utilidad del arte. Revista ramona: Agosto de 2001.
+Aisenberg, Diana (2017) Cap. “Sistema de referencias”,  MDA. Apuntes para un aprendizaje del arte. C.A.B.A: Adriana Hidalgo editora.
+Cirlot, Juan Eduardo (2014) Diccionario de símbolos. Ediciones Siruela S.A.
+
+Páginas web consultadas:
+https://blacklivesmatter.com/ 	 	
+https://iconoclasistas.net/ 	 	
+https://www.toppletheracists.org/
+https://www.newyorker.com/culture/cover-story/cover-story-2020-06-22
+https://spectrejournal.com/art-workers-rise-up/ 
+http://marcquinn.com/ 	
+
+
+	
+
+
